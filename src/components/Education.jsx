@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
 const Education = ({ educationTitle, educationCampus, educationTime }) => {
   return (
@@ -14,6 +15,12 @@ const Education = ({ educationTitle, educationCampus, educationTime }) => {
       </div>
     </div>
   )
+}
+
+Education.propTypes = {
+  educationTitle: PropTypes.string,
+  educationCampus: PropTypes.string,
+  educationTime: PropTypes.string
 }
 
 export default Education

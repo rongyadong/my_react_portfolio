@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
 const Skill = ({ skillName, skillIcon }) => {
   return (
@@ -11,6 +12,11 @@ const Skill = ({ skillName, skillIcon }) => {
       </li>
     </div>
   )
+}
+
+Skill.propTypes = {
+  skillName: PropTypes.string,
+  skillIcon: PropTypes.string
 }
 
 export default Skill

@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
 const Project = ({ imgURL, projectSkills, liveDemoLink, githubLink }) => {
   return (
@@ -40,6 +41,13 @@ const Project = ({ imgURL, projectSkills, liveDemoLink, githubLink }) => {
       </div>
     </div>
   )
+}
+
+Project.propTypes = {
+  imgURL: PropTypes.string,
+  projectSkills: PropTypes.array,
+  liveDemoLink: PropTypes.string,
+  githubLink: PropTypes.string
 }
 
 export default Project
