@@ -1,0 +1,95 @@
+.avatar-img {
+  height: 365px;
+  margin: 5em;
+  border-radius: 50%;
+}
+
+.banner-text {
+  background-color: #000;
+  opacity: 0.8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+  padding: 1em;
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.banner-text hr {
+  border-top: 5px solid #fff;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: #fff;
+  font-size: 20px;
+  padding: 1em;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+  margin: 2em auto;
+}
+
+.social-links i {
+  color: #fff;
+  font-size: 5em;
+  padding: 10px;
+}
+
+.social-links i:hover {
+  color: #000;
+  font-size: 7em;
+  transition: all 0.5s ease;
+}
+
+.project-img-size {
+  height: 10rem;
+}
+
+.contact-p {
+  width: 80%;
+  margin: auto;
+  padding-top: 1em;
+  font-size: 18px;
+}
+
+.list-group-item:hover {
+  font-weight: bold;
+  background: #000046;
+  background: linear-gradient(to right, #1cb5e0, #000046);
+  transition: all 1s ease;
+}
+
+.list-group-item {
+  color: #fff;
+  background: #36d1dc; /* fallback for old browsers */
+  background: linear-gradient(to right, #5b86e5, #36d1dc);
+}
+
+h2.font-anton {
+  font-family: 'Anton';
+  margin: 5rem auto;
+}
+
+.education-item {
+  margin: 1em;
+}
+
+.education-item:hover {
+  color: #fff;
+  font-weight: bold;
+  background: #36d1dc;
+  transition: all 1s ease;
+}
+
+strong.white {
+  color: #fff;
+}
