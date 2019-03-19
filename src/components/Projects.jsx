@@ -19,14 +19,14 @@ class Projects extends Component {
       [
         'https://miro.medium.com/max/1200/0*1p4U99DAhsOHqX-m.jpg',
         ['React', 'Redux', 'ES6'],
-        '/',
+        'https://cranky-yalow-46c623.netlify.com/',
         'https://github.com/rongyadong/shopping_cart'
       ],
       [
         'https://cdn-images-1.medium.com/max/2600/1*5Jv5YAGqu3zL5endb8dtBA.png',
         ['React', 'Bootstrap4', 'CSS3'],
-        '/',
-        '/'
+        'https://quirky-lumiere-4d9e68.netlify.com',
+        'https://github.com/rongyadong/my_react_portfolio'
       ],
       [],
       []
