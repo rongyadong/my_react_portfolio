@@ -39,7 +39,7 @@ class About extends Component {
     return (
       <div className="container">
         <div className="row">
-          <div className="col">
+          <div className="col-12 col-lg-6">
             <h2 className="font-anton">My skill set</h2>
             <ul className="list-group">
               {this.state.skills.map((skill, index) => (
@@ -47,7 +47,7 @@ class About extends Component {
               ))}
             </ul>
           </div>
-          <div className="col">
+          <div className="col-12 col-lg-6">
             <h2 className="font-anton">My Education</h2>
             <ul className="list-group">
               {this.state.educations.map((education, index) => (

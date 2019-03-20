@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div className="container">
       <div className="row">
-        <div className="col">
+        <div className="col-12 col-lg-6">
           <h2 className="font-anton">Yadong Rong</h2>
 
           <img
@@ -32,7 +32,7 @@ const Contact = () => {
             position where I can progress and challenge my skills.
           </p>
         </div>
-        <div className="col">
+        <div className="col-12 col-lg-6">
           <h2 className="font-anton">Contact Me</h2>
           <ul className="list-group" style={{ margin: '15rem auto' }}>
             <li className="list-group-item">
