@@ -17,9 +17,10 @@ class Projects extends Component {
         'https://github.com/rongyadong/Materialize_study'
       ],
       [
-        'https://cms-assets.tutsplus.com/uploads/users/769/posts/28733/preview_image/WPBakery-Page-Builder-fix.jpg',
-        ['HTML5/CSS3', 'WPBakery', 'jQuery'],
-        'https://stjamesterrace.com.au/'
+        'https://i.ytimg.com/vi/xCGPPimXgJU/maxresdefault.jpg',
+        ['React', 'Bootstrap4', 'Axios'],
+        'https://stoic-goldwasser-51f3aa.netlify.com/',
+        'https://github.com/rongyadong/react-weather-app'
       ],
       [
         'https://miro.medium.com/max/1200/0*1p4U99DAhsOHqX-m.jpg',
@@ -33,12 +34,11 @@ class Projects extends Component {
         'https://quirky-lumiere-4d9e68.netlify.com',
         'https://github.com/rongyadong/my_react_portfolio'
       ],
-      [
-        'https://i.ytimg.com/vi/xCGPPimXgJU/maxresdefault.jpg',
-        ['React', 'Bootstrap4', 'Axios'],
-        'https://stoic-goldwasser-51f3aa.netlify.com/',
-        'https://github.com/rongyadong/react-weather-app'
-      ]
+       [
+        'https://cms-assets.tutsplus.com/uploads/users/769/posts/28733/preview_image/WPBakery-Page-Builder-fix.jpg',
+        ['HTML5/CSS3', 'WPBakery', 'jQuery'],
+        'https://stjamesterrace.com.au/'
+      ],
     ]
   }
 
