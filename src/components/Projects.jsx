@@ -34,11 +34,12 @@ class Projects extends Component {
         'https://quirky-lumiere-4d9e68.netlify.com',
         'https://github.com/rongyadong/my_react_portfolio'
       ],
-       [
-        'https://cms-assets.tutsplus.com/uploads/users/769/posts/28733/preview_image/WPBakery-Page-Builder-fix.jpg',
-        ['HTML5/CSS3', 'WPBakery', 'jQuery'],
-        'https://stjamesterrace.com.au/'
-      ],
+      [
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8wHLLGKUoGO02qZaDu0DJ6jDTvPrX3ZFPvUcY-r61PPqg0nlgw',
+        ['React', 'Context', 'styled-component'],
+        'https://fervent-payne-7f2b7d.netlify.com/',
+        'https://github.com/rongyadong/e-store-react-contextAPI'
+      ]
     ]
   }
 
