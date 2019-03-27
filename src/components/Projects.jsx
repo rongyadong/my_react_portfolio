@@ -30,7 +30,7 @@ class Projects extends Component {
       ],
       [
         'https://cdn-images-1.medium.com/max/2600/1*5Jv5YAGqu3zL5endb8dtBA.png',
-        ['React', 'Bootstrap4', 'CSS3'],
+        ['React', 'CSS3', 'Bootstrap4'],
         'https://quirky-lumiere-4d9e68.netlify.com',
         'https://github.com/rongyadong/my_react_portfolio'
       ],
@@ -48,7 +48,7 @@ class Projects extends Component {
       <div className="container">
         <div className="row" style={{ margin: '5em 1em' }}>
           {this.state.projects.slice(0, 3).map((project, index) => (
-            <div className="col" key={index}>
+            <div className="col-md-12 col-lg-4" key={index}>
               <Project
                 imgURL={project[0]}
                 projectSkills={project[1]}
@@ -60,7 +60,7 @@ class Projects extends Component {
         </div>
         <div className="row" style={{ margin: '5em 1em' }}>
           {this.state.projects.slice(3, 6).map((project, index) => (
-            <div className="col" key={index}>
+            <div className="col-md-12 col-lg-4" key={index}>
               <Project
                 imgURL={project[0]}
                 projectSkills={project[1]}
