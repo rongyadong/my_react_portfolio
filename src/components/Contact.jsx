@@ -16,20 +16,20 @@ const Contact = () => {
           <p className="contact-p">
             I am a frontend web developer, I have built several components of
             projects for small business as a freelancer, looking at a design I
-            can convert it into an <strong className="white">HTML&CSS</strong>
+            can convert it into an<strong className="white"> HTML&CSS </strong>
             template with pixel perfect precision. I use
-            <strong className="white">React</strong> and
-            <strong className="white">Bootstrap</strong> quite often, so the
+            <strong className="white"> React </strong> and
+            <strong className="white"> Bootstrap </strong> quite often, so the
             turn around of my projects is pretty quick, and I always use
-            <strong className="white">GIT</strong> to track my progress and
+            <strong className="white"> GIT </strong> to track my progress and
             files, as well to collaborate with other developers in the future.
           </p>
           <hr />
           <p className="contact-p">
             Currently, I am learning an advanced course related to
-            <strong className="white">TypeScript</strong> and
-            <strong className="white">GatsbyJS</strong>, and I am looking for a
-            position where I can progress and challenge my skills.
+            <strong className="white"> TypeScript </strong> and
+            <strong className="white"> GatsbyJS </strong>, and I am looking for
+            a position where I can progress and challenge my skills.
           </p>
         </div>
         <div className="col-12 col-lg-6">
