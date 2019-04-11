@@ -9,8 +9,8 @@ export const data = {
     [
       'https://i.ytimg.com/vi/I6IY2TqnPDA/maxresdefault.jpg',
       ['React', 'Bootstrap4', 'ES6'],
-      'https://github.com/rongyadong/advanced-react-todolist',
-      'https://elegant-shaw-5b81e0.netlify.com/'
+      'https://elegant-shaw-5b81e0.netlify.com/',
+      'https://github.com/rongyadong/advanced-react-todolist'
     ],
     [
       'https://i.ytimg.com/vi/xCGPPimXgJU/maxresdefault.jpg',
