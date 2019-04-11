@@ -7,11 +7,12 @@ export const data = {
       'https://github.com/rongyadong/responsive-single-page'
     ],
     [
-      'https://i.ytimg.com/vi/I6IY2TqnPDA/maxresdefault.jpg',
-      ['React', 'Bootstrap4', 'ES6'],
-      'https://elegant-shaw-5b81e0.netlify.com/',
-      'https://github.com/rongyadong/advanced-react-todolist'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8wHLLGKUoGO02qZaDu0DJ6jDTvPrX3ZFPvUcY-r61PPqg0nlgw',
+      ['React', 'Context', 'styled-component'],
+      'https://fervent-payne-7f2b7d.netlify.com/',
+      'https://github.com/rongyadong/e-store-react-contextAPI'
     ],
+
     [
       'https://i.ytimg.com/vi/xCGPPimXgJU/maxresdefault.jpg',
       ['React', 'Bootstrap4', 'Axios'],
@@ -31,10 +32,10 @@ export const data = {
       'https://github.com/rongyadong/my_react_portfolio'
     ],
     [
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8wHLLGKUoGO02qZaDu0DJ6jDTvPrX3ZFPvUcY-r61PPqg0nlgw',
-      ['React', 'Context', 'styled-component'],
-      'https://fervent-payne-7f2b7d.netlify.com/',
-      'https://github.com/rongyadong/e-store-react-contextAPI'
+      'https://i.ytimg.com/vi/I6IY2TqnPDA/maxresdefault.jpg',
+      ['React', 'Bootstrap4', 'ES6'],
+      'https://elegant-shaw-5b81e0.netlify.com/',
+      'https://github.com/rongyadong/advanced-react-todolist'
     ]
   ]
 }
