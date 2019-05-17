@@ -14,6 +14,11 @@ class About extends Component {
     ],
     educations: [
       [
+        '3-month part time developer in St James Terrace Aged Care',
+        'Performance Education - Melbourne Campus',
+        '(01/2019 - 04/2019)'
+      ],
+      [
         '3-month unpaid internship in Mak Technology',
         'Performance Education - Melbourne Campus',
         '(11/2016 - 01/2017)'
