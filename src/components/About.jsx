@@ -9,8 +9,7 @@ class About extends Component {
       ['CSS3', 'fab fa-css3 fa-2x'],
       ['JavaScript', 'fab fa-js fa-2x'],
       ['React', 'fab fa-react fa-2x'],
-      ['Node.js', 'fab fa-node fa-2x'],
-      ['MongoDB', 'fas fa-database fa-2x']
+      ['Node.js', 'fab fa-node fa-2x']
     ],
     educations: [
       [

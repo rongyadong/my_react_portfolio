@@ -15,7 +15,6 @@ const Main = () => {
             <hr />
             <p>
               HTML5 | CSS3 | Bootstrap | JavaScript | React | Node.js | Express
-              | MongoDB
             </p>
           </div>
           <div className="social-links">
