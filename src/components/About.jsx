@@ -13,29 +13,19 @@ class About extends Component {
     ],
     educations: [
       [
-        '3-month part time developer in St James Terrace Aged Care',
-        'Performance Education - Melbourne Campus',
-        '(01/2019 - 04/2019)'
+        '6-month contract frontend developer in EMS Brüel & Kjær',
+        'Frontend Web Developer - EMS Brüel & Kjær',
+        '(06/2019 - 12/2019)'
       ],
       [
-        '3-month unpaid internship in Mak Technology',
-        'Performance Education - Melbourne Campus',
-        '(11/2016 - 01/2017)'
+        '3-month part time developer in St James Terrace Aged Care',
+        'Web Developer - St James Terrace Aged Care',
+        '(01/2019 - 04/2019)'
       ],
       [
         'IT Professional Year Program',
         'Performance Education - Melbourne Campus',
         '(04/2016 - 11/2016)'
-      ],
-      [
-        'Master of Commerce and finance',
-        'Deakin University - Burwood Campus',
-        '(10 / 2014 - 03 / 2016)'
-      ],
-      [
-        'Bachelor of Information Technology',
-        'Deakin University - Burwood Campus',
-        '(06/2010 - 06/2013)'
       ]
     ]
   }
@@ -52,7 +42,7 @@ class About extends Component {
             </ul>
           </div>
           <div className="col-12 col-lg-6">
-            <h2 className="font-anton">My Education</h2>
+            <h2 className="font-anton">My Working Experience</h2>
             <ul className="list-group">
               {this.state.educations.map((education, index) => (
                 <Education

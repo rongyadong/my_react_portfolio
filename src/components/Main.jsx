@@ -11,7 +11,7 @@ const Main = () => {
             alt="my avatar"
           />
           <div className="banner-text">
-            <h1>Web Developer</h1>
+            <h1>Frontend Web Developer</h1>
             <hr />
             <p>
               HTML5 | CSS3 | Bootstrap | JavaScript | React | Node.js | Express
