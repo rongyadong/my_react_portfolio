@@ -13,9 +13,9 @@ class About extends Component {
     ],
     educations: [
       [
-        '6-month contract frontend developer in EMS Brüel & Kjær',
+        '8-month contract frontend developer in EMS Brüel & Kjær',
         'Frontend Web Developer - EMS Brüel & Kjær',
-        '(06/2019 - 12/2019)'
+        '(06/2019 - 01/2020)'
       ],
       [
         '3-month part time developer in St James Terrace Aged Care',

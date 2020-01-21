@@ -14,7 +14,7 @@ const Main = () => {
             <h1>Frontend Web Developer</h1>
             <hr />
             <p>
-              HTML5 | CSS3 | Bootstrap | JavaScript | React | Node.js | Express
+              HTML5 | CSS3 | JavaScript | React | Node.js
             </p>
           </div>
           <div className="social-links">
